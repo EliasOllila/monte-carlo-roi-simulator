@@ -1,0 +1,14 @@
+n_simulations: 10000
+horizon_years: 10
+random_seed: 42
+discount_rate: 0.08
+fee_inflation_mean: 0.03
+fee_inflation_std: 0.01
+target_cost_cut_pct: 0.20
+prob_monetized_non_sep: 0.12
+prob_monetized_sep: 0.45
+lognormal_mu: 9.8
+lognormal_sigma: 1.35
+sep_value_multiplier: 3.2
+annual_obsolescence_rate: 0.05
+oat_shock_pct: 0.20
